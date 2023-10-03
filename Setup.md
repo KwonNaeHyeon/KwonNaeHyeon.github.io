@@ -22,5 +22,7 @@
 ## 글쓰기 보충
 
 ### 이미지 추가
+- 정적 파일, 위치가 중요 
+            - https://kwonnaehyeon.github.io/images/20231003/01.jpg
 
 ### 표 추가
